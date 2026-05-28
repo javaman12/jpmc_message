@@ -16,7 +16,7 @@
 		<dependency>
 			<groupId>org.apache.activemq</groupId>
 			<artifactId>activemq-all</artifactId>
-			<version>5.14.4</version>
+			<version>5.19.6</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/javax.jms/jms -->
 		<dependency>
